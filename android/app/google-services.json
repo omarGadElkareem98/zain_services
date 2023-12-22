@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380105473471",
+    "project_id": "zainservices-e4add",
+    "storage_bucket": "zainservices-e4add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380105473471:android:2f2bbfe59662f197f4750a",
+        "android_client_info": {
+          "package_name": "com.example.zain_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm_g0BRFxLzOqlJMBV-ZulXWkmTlol0pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
